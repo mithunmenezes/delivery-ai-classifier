@@ -1,8 +1,8 @@
 # Product Requirements Document
 ## AI Delivery Request Classifier
 
-**Author**: [Your Name]  
-**Date**: December 2024  
+**Author**: [Mithun Menezes]  
+**Date**: December 2025  
 **Status**: MVP Complete
 
 ---
