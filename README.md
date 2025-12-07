@@ -1,4 +1,4 @@
-# AI-Powered Delivery Request Classifier
+# AI-Powered Delivery Request Classifier 
 
 > An end-to-end machine learning solution for automated delivery request classification, built to optimize last-mile logistics operations.
 
