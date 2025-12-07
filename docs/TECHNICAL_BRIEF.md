@@ -664,13 +664,13 @@ def anonymize_request(text: str) -> str:
 **Contact**
 
 For technical questions or collaboration:
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [github.com/yourusername]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
+- **Author**: Mithun Menezes
+- **LinkedIn**: [linkedin.com/in/mithun-menezes](https://www.linkedin.com/in/mithun-menezes/)
+- **GitHub**: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **Email**: [mithun.menezes@gmail.com]
 
 ---
 
-*Last Updated: December 2024*  
+*Last Updated: December 2025*  
 *Version: 1.0*  
 *Status: Living Document - Updated monthly*
