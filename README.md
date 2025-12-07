@@ -199,13 +199,15 @@ This project was built to demonstrate end-to-end AI product development capabili
 
 - Product thinking and user-centered design
 - Technical implementation with modern ML frameworks
+...
 - Business impact quantification
 - Production-ready considerations
-
-**Built by**: [Your Name]  
-**Role**: AI Product Manager  
-**LinkedIn**: [Your LinkedIn]  
-**Portfolio**: [Your Portfolio]
+*Built by* : Mithun Menezes
+*Role* : AI Product Manager
+*LinkedIn* : [linkedin.com/in/mithun-menezes](https://www.linkedin.com/in/mithun-menezes/)
+*GitHub* : [github.com/mithunmenezes](https://github.com/mithunmenezes)  # Assuming your GitHub username is 'mithunmenezes'
+*Portfolio* : [Your Portfolio] # Keep or update as needed
+...
 
 ## 📄 License
 
